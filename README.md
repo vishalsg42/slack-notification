@@ -1,2 +1,2 @@
 # slack-notification 
-testing slac notification
+testing slack notification
